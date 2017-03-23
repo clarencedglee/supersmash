@@ -1,0 +1,1 @@
+Part of a demonstration on the capabilities of JavaScript
